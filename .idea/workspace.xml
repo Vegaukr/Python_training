@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3196a899-e50b-42f1-9a57-5d8819cafdc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3196a899-e50b-42f1-9a57-5d8819cafdc6" name="Changes" comment="tested" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +12,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bba0a29f-1865-41f0-8ab1-23bfbad40bb4" />
+        <option name="url" value="https://github.com/Vegaukr/Python_training.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IiFk6nzm8nxDqJQuxpVo8nOJob" />
   <component name="ProjectViewState">
@@ -61,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670656637337</updated>
     </task>
+    <task id="LOCAL-00001" summary="tested">
+      <created>1670658579228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670658579228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +93,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="tested" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
